@@ -6,7 +6,7 @@
 | Local Environments | IDE Git Local tests | <ul><li>VSCode</li><li><ul><li>Git Hooks</li><li> |
 
 
-## People
+## 1. People
 
 ### What's in scope?
 
@@ -14,7 +14,7 @@
 * QA team
 
 
-## Local Environments
+## 2. Local Environments
 
 ### What's in scope?
 
@@ -26,7 +26,7 @@
 
 VSCode, Atom, Git 
 
-## Source Code
+## 3. Source Code
 
 ### What's in scope?
 
@@ -40,22 +40,43 @@ VSCode, Atom, Git
 
 Ruby on Rails, React, PHP, Next.js, JQuery, Golang, Javascript
 
-## Source Code Management/Continuous Integration
+## 4. Source Code Management/Continuous Integration
 
 ### What's in scope?
 
 * Git repositories
-* SCM providers: GitHub, Bitbucket, GitLab, CodeCommit, Azure DevOps Repos
+* SCM providers
 * Pull requests
 * Security tests
 * Functional tests
 
+### Examples
 
-## Continuous deployment
+GitHub, Bitbucket, GitLab, CodeCommit, Azure DevOps Repos
+
+## 5. Continuous deployment
 
 ### What's in scope?
 
-* Build servers: Buildkite, Bamboo, Octopus Deploy
-* ? 
+* Build servers
+* Deployment platforms
 
+### Examples
 
+Buildkite, Bamboo, Octopus Deploy
+
+## 6. Runtime
+
+### What's in scope?
+
+* Servers
+* Operating systems
+* Containers
+* Webservers
+* Application servers
+* Web runtime engines
+* Databases
+
+### Examples
+
+IIS, Express, Apache, Tomcat, ASP.NET, Node.js, WebKit, Chrome, V8, MySQL, PostGres
