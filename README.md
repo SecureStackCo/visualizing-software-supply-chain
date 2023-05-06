@@ -1,6 +1,6 @@
 
-| People | Local Envs | Source Code | Integration | Deployment | Runtime | Hardware | DNS | Services | Cloud |
-| :--- | :---        | :---   |
+| People | Local Envs | Source Code | Integration | Deployment | Runtime | Hardware | DNS | Services | Cloud
+| :--- | :---        | :---   | :--- | :---    | :--- | :--- | :---        | :---   | :---
 | Engineers | IDE | Languages | GitHub | Buildkite | Linux | Embedded Device | DNS | Stripe | AWS Cognito |
 
 
