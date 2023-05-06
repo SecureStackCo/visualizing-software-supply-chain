@@ -1,7 +1,9 @@
 
 | People | Local Envs | Source Code | Integration | Deployment | Runtime | Hardware | DNS | Services | Cloud
 | :--- | :---        | :---   | :--- | :---    | :--- | :--- | :---        | :---   | :---
-| Engineers | IDE | Languages | GitHub | Buildkite | Linux | Embedded Device | DNS | Stripe | AWS Cognito |
+| paul@example.org | VSCode | Javascript | GitHub | Octopus Deploy | Linux | Embedded Device | app.niftybank.org | Stripe | AWS Cognito |
+| mark@example.org | Atom | Ruby on Rails | Bitbucket | Buildkite | Windows Server | PCB | api.niftybank.org | Segment | API Gateway |
+| linux@linux.org | Vim | PHP | GitLab | Jenkins | Apache | USB dongle | linux.org | Mailchimp | AWS ALB |
 
 
 ## 1. People
