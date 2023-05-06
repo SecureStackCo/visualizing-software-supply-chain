@@ -13,7 +13,6 @@
 * Software engineers
 * QA team
 
-
 ## 2. Local Environments
 
 ### What's in scope?
@@ -24,7 +23,7 @@
 
 ### Examples
 
-VSCode, Atom, Git 
+VSCode, Atom, Git, Vim, SVN, Mercurial
 
 ## 3. Source Code
 
@@ -38,7 +37,7 @@ VSCode, Atom, Git
 
 ### Examples
 
-Ruby on Rails, React, PHP, Next.js, JQuery, Golang, Javascript
+Ruby on Rails, React, PHP, Next.js, JQuery, Golang, Javascript, Angular, Vue.js, Laravel, jsDelivr, 
 
 ## 4. Source Code Management/Continuous Integration
 
@@ -52,7 +51,7 @@ Ruby on Rails, React, PHP, Next.js, JQuery, Golang, Javascript
 
 ### Examples
 
-GitHub, Bitbucket, GitLab, CodeCommit, Azure DevOps Repos
+GitHub, Bitbucket, GitLab, CodeCommit, Azure Repos
 
 ## 5. Continuous deployment
 
@@ -63,7 +62,7 @@ GitHub, Bitbucket, GitLab, CodeCommit, Azure DevOps Repos
 
 ### Examples
 
-Buildkite, Bamboo, Octopus Deploy
+Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps
 
 ## 6. Runtime
 
@@ -79,4 +78,49 @@ Buildkite, Bamboo, Octopus Deploy
 
 ### Examples
 
-IIS, Express, Apache, Tomcat, ASP.NET, Node.js, WebKit, Chrome, V8, MySQL, PostGres
+IIS, Express, Apache, Tomcat, ASP.NET, Node.js, WebKit, Chrome, V8, MySQL, PostGres, WordPress, WooCommerce, Kubernetes, Docker, Adobe Experience Manager, Vercel, Kinsta, Flywheel 
+
+## 7. Hardware
+
+### What's in scope?
+
+* Proprietary devices
+* Dedicated servers
+
+### Examples
+
+Embedded devices, custom PCBs, GPUs
+
+## 8. DNS
+
+### What's in scope?
+
+* DNS
+
+### Examples
+
+app.example.org
+
+## 9. Services
+
+### What's in scope?
+
+* third party SaaS solutions
+* third party APIs or data
+* payment processors/gateways
+* identity providers 
+
+### Examples
+
+Stripe, Segment, Hubspot, Mailchimp, Facebook Pixel, Marketo, 
+
+## 10. Cloud resources
+
+### What's in scope?
+
+* CDN
+* Cloud native resources
+
+### Examples
+
+AWS API Gateway, AWS Cognito, DynomoDB,
