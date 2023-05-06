@@ -1,9 +1,7 @@
 
-
-| Stage | What's in scope | Examples 
+| People | Local Envs | Source Code | Integration | Deployment | Runtime | Hardware | DNS | Services | Cloud |
 | :--- | :---        | :---   |
-| People | Software Engineers QA | <ul><li>Paul</li><li> |
-| Local Environments | IDE Git Local tests | <ul><li>VSCode</li><li><ul><li>Git Hooks</li><li> |
+| Engineers | IDE | Languages | GitHub | Buildkite | Linux | Embedded Device | DNS | Stripe | AWS Cognito |
 
 
 ## 1. People
@@ -66,7 +64,7 @@ Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps
 
 ## 6. Runtime
 
-### What's in scope?
+### What's in scope
 
 * Servers
 * Operating systems
@@ -78,7 +76,7 @@ Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps
 
 ### Examples
 
-IIS, Express, Apache, Tomcat, ASP.NET, Node.js, WebKit, Chrome, V8, MySQL, PostGres, WordPress, WooCommerce, Kubernetes, Docker, Adobe Experience Manager, Vercel, Kinsta, Flywheel 
+IIS, Express, Apache, Tomcat, ASP.NET, Node.js, WebKit, Chrome, V8, MySQL, PostGres, WordPress, WooCommerce, Kubernetes, Docker, Adobe Experience Manager, Vercel, Kinsta, Flywheel, Nginx, Linux, Ubuntu, CentOS, Amazon Linux 2, Drupal, Windows Server 
 
 ## 7. Hardware
 
