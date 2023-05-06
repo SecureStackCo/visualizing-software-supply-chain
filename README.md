@@ -6,5 +6,20 @@
 | Local Environments | IDE Git Local tests | <ul><li>VSCode</li><li><ul><li>Git Hooks</li><li> |
 
 
-| Control | Name | Priority | Description | Difficulty | Maps to security frameworks
-| :--- | :---        | :---   | :--- | :---    | :---
+# PEOPLE
+
+## What's in scope?
+
+* Software engineers
+* QA team
+
+
+# LOCAL ENVIORONMENTS
+
+## What's in scope?
+
+* IDE
+* Git
+* Local tests
+
+
