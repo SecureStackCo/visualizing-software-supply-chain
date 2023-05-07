@@ -142,7 +142,7 @@ This refers to the process of identifying and describing the external services t
 
 ### Examples
 
-Stripe, Segment, Hubspot, Mailchimp, Facebook Pixel, Marketo, 
+Stripe, Segment, Hubspot, Mailchimp, Facebook Pixel, Marketo
 
 ## 10. Cloud resources
 
@@ -155,4 +155,4 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 
 ### Examples
 
-AWS API Gateway, AWS Cognito, DynomoDB,
+AWS API Gateway, AWS Cognito, DynamoDB
