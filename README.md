@@ -9,11 +9,6 @@
 | | | Proprietary code | Functional tests | | Web engines | |  | | |
 | | | | | | Databases | | | | |
 
-* third party SaaS solutions
-* third party APIs or data
-* payment processors/gateways
-* identity providers
-
 ## 1. People
 
 These are the individuals or teams of people that are needed to write, build and deploy software.
