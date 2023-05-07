@@ -1,9 +1,4 @@
-
-| People | Local Requirements | Source Code | Integration | Deployment | Runtime | Hardware | DNS | Services | Cloud
-| :--- | :---        | :---   | :--- | :---    | :--- | :--- | :---        | :---   | :---
-| paul@example.org | VSCode | Javascript | GitHub | Octopus Deploy | Linux | Embedded Device | app.niftybank.org | Stripe | AWS Cognito |
-| mark@example.org | Atom | Ruby on Rails | Bitbucket | Buildkite | Windows Server | PCB | api.niftybank.org | Segment | API Gateway |
-| linux@linux.org | Vim | PHP | GitLab | Jenkins | Apache | USB dongle | linux.org | Mailchimp | AWS ALB |
+# VISUALIZING THE SOFTWARE SUPPLY CHAIN
 
 | People | Local Requirements | Source Code | Integration | Deployment | Runtime | Hardware | DNS | Services | Cloud
 | :--- | :---        | :---   | :--- | :---    | :--- | :--- | :---        | :---   | :---
