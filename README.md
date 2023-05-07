@@ -9,8 +9,8 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 | Developers | IDE | Languages | Git repos | Build solutions | Servers | Embedded Device | DNS | SaaS solutions | AWS Cognito |
 | QA team | VCS | Frameworks | SCM providers | Deployment platforms | Operating systems | PCB | | 3rd party APIs | API Gateway |
 | DevOps team | Local tests | Libraries | Pull requests | | Webservers | USB dongle |  | Payment gateways | |
-| | | Open source | Security tests | | Application servers | |  | Identity Providers | |
-| | | Proprietary code | Functional tests | | Web engines | |  | | |
+| | | Open source | | Security tests | Application servers | |  | Identity Providers | |
+| | | Proprietary code | | Functional tests | Web engines | |  | | |
 | | | | | | Databases | | | | |
 
 ## 1. People
@@ -39,7 +39,7 @@ This includes any local applications, configurations, or other dependencies that
 
 ### Examples
 
-VSCode, Atom, Git, Vim, SVN, Mercurial
+VSCode, Atom, Git, Vim, SVN, Mercurial, static analysis, software composition analysis
 
 ## 3. Source Code
 
@@ -55,7 +55,7 @@ This includes any software that is needed to successfully write, build or deploy
 
 ### Examples
 
-Ruby on Rails, React, PHP, Next.js, JQuery, Golang, Javascript, Angular, Vue.js, Laravel, jsDelivr
+Javascript, Python, C, C++, Ruby, C#, Java, Ruby on Rails, React, PHP, Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, Lua, .NET Core, Require.js, Slick 
 
 ## 4. Source Code Management/Continuous Integration
 
@@ -66,12 +66,10 @@ Continuous integration (CI) is the process of automatically integrating code cha
 * Git repositories
 * SCM providers
 * Pull requests
-* Security tests
-* Functional tests
 
 ### Examples
 
-GitHub, Bitbucket, GitLab, CodeCommit, Azure Repos
+GitHub, Bitbucket, GitLab, CodeCommit, Azure Repos, Gitea 
 
 ## 5. Continuous deployment/delivery
 
@@ -81,10 +79,12 @@ Continuous delivery is an extension of continuous integration that automatically
 
 * Build servers
 * Deployment platforms
+* Security tests
+* Functional tests
 
 ### Examples
 
-Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps
+Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps, Selenium, Semgrep, SecureStack
 
 ## 6. Runtime
 
