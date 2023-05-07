@@ -1,10 +1,23 @@
 
-| People | Local Envs | Source Code | Integration | Deployment | Runtime | Hardware | DNS | Services | Cloud
+| People | Local Requirements | Source Code | Integration | Deployment | Runtime | Hardware | DNS | Services | Cloud
 | :--- | :---        | :---   | :--- | :---    | :--- | :--- | :---        | :---   | :---
 | paul@example.org | VSCode | Javascript | GitHub | Octopus Deploy | Linux | Embedded Device | app.niftybank.org | Stripe | AWS Cognito |
 | mark@example.org | Atom | Ruby on Rails | Bitbucket | Buildkite | Windows Server | PCB | api.niftybank.org | Segment | API Gateway |
 | linux@linux.org | Vim | PHP | GitLab | Jenkins | Apache | USB dongle | linux.org | Mailchimp | AWS ALB |
 
+| People | Local Requirements | Source Code | Integration | Deployment | Runtime | Hardware | DNS | Services | Cloud
+| :--- | :---        | :---   | :--- | :---    | :--- | :--- | :---        | :---   | :---
+| Developers | IDE | Languages | Git repos | Build solutions | Servers | Embedded Device | DNS | SaaS solutions | AWS Cognito |
+| QA team | VCS | Frameworks | SCM providers | Deployment platforms | Operating systems | PCB | | 3rd party APIs | API Gateway |
+| | Local tests | Libraries | Pull requests | | Webservers | USB dongle |  | Payment gateways | |
+| | | Open source | Security tests | | Application servers | |  | Identity Providers | |
+| | | Proprietary code | Functional tests | | Web engines | |  | | |
+| | | | | | Databases | | | | |
+
+* third party SaaS solutions
+* third party APIs or data
+* payment processors/gateways
+* identity providers
 
 ## 1. People
 
