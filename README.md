@@ -13,7 +13,7 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 |             |              | Proprietary code |               | Security tests       | Web engines         |             |      |                    |             |
 |             |              |                  |               |                      | Databases           |             |      |                    |             |
 
-## 1. People
+## People
 
 These are the individuals or teams of people that are needed to write, build and deploy software.
 
@@ -41,7 +41,7 @@ This includes any local applications, configurations, or other dependencies that
 
 VSCode, Atom, Git, Vim, SVN, Mercurial, static analysis, software composition analysis
 
-## 3. Source Code
+## Source Code
 
 This includes any software that is needed to successfully write, build or deploy an application.  
 
