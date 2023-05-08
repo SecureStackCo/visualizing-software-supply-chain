@@ -34,6 +34,8 @@ These are the individuals or teams of people that are needed to write, build and
 
 peter.small@cheapcryptobank.com, roger.moore@cheapcryptobank.com
 
+&nbsp;&nbsp;
+
 ## Local Requirements 
 
 This includes any local applications, configurations, or other dependencies that are needed to for the people building software to successfully do their job.
@@ -58,6 +60,8 @@ Git, Mercurial, SVN, ClearCase
 
 Linting, static analysis, software composition analysis
 
+&nbsp;&nbsp;
+
 ## Source Code
 
 This includes any software that is needed to successfully write, build or deploy an application.  
@@ -80,6 +84,8 @@ Javascript, Python, C, C++, Ruby, C#, Java, Ruby on Rails, PHP, Lua, C#
 
 React, Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, .NET Core, Require.js, Slick 
 
+&nbsp;&nbsp;
+
 ## Continuous Integration
 
 Continuous integration (CI) is the process of automatically integrating code changes from multiple contributors into a single software project. This is an important DevOps best practice that enables developers to frequently merge code changes into a central repository for testing before deployment. Automated tools are used to check that the new code is correct before integration.
@@ -94,6 +100,8 @@ Continuous integration (CI) is the process of automatically integrating code cha
 #### SCM Providers
 
 GitHub, Bitbucket, GitLab, CodeCommit, Azure Repos, Gitea 
+
+&nbsp;&nbsp;
 
 ## Continuous deployment
 
@@ -163,6 +171,8 @@ MySQL, PostGres, Redis, SQL Server
 
 Amazon Linux, Ubuntu, Debian, Rocky Linux, Windows Server, Bitnami WordPress
 
+&nbsp;&nbsp;
+
 ## Hardware
 
 This includes any specific or customized piece of hardware for this application to run.  
@@ -187,6 +197,8 @@ This includes any hostnames, or other DNS entries that any application needs.
 ### Examples
 
 app.example.org
+
+&nbsp;&nbsp;
 
 ## Services
 
@@ -213,6 +225,8 @@ Hubspot, Mailchimp, LinkedIn, Crunchbase
 #### Analytics & tracking examples
 
 Mixpanel, Google Analytics, Hotjar, Facebook Pixel, LinkedIn Tracking Pixel, Reddit Pixel, Segment, Marketo
+
+&nbsp;&nbsp;
 
 ## Cloud resources
 
