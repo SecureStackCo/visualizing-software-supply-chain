@@ -7,7 +7,7 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 <center>
 
 | [People](#people) | [Local Reqs](#Local-Requirements) | [Source Code](#source-code) | [Integration](#continuous-integration) | [Deployment](#continuous-deployment) | [Runtime](#runtime) | [Hardware](#hardware) | [DNS](#dns)  | [Services](#services) | [Cloud](#cloud-resources)
-| :---        | :---         | :---             | :---          | :---                 | :---                | :---        | :--- | :---               | :---
+| :---------: | :----------: | :--------------: | :-----------: | :------------------: | :-----------------: | :---------: | :--: | :----------------: | :---------:
 |             |              |                  |               |                      |                     |             |      |                    |             |
 | Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | DNS  | SaaS solutions     | AWS Cognito |
 | QA team     | VCS          | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         |      | 3rd party APIs     | API Gateway |
