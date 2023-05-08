@@ -8,13 +8,13 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 
 | [People](#people) | [Local Reqs](#Local-Requirements) | [Source Code](#source-code) | [Integration](#continuous-integration) | [Deployment](#continuous-deployment) | [Runtime](#runtime) | [Hardware](#hardware) | [DNS](#dns)  | [Services](#services) | [Cloud](#cloud-resources)
 | :---------: | :----------: | :--------------: | :-----------: | :------------------: | :-----------------: | :---------: | :--: | :----------------: | :---------:
-|             |              |                  |               |                      |                     |             |      |                    |             |
-| Developers  | [IDE](#ide)  | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | DNS  | SaaS solutions     | AWS Cognito |
-| QA team     | [SCV](#scv-tools)  | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         |      | 3rd party APIs     | API Gateway |
-| DevOps team | [Local tests](#local-tests) | Libraries        | Pull requests | Unit tests           | Webservers          | USB dongle  |      | Payment gateways   |             |
-|             |              | Open source      |               | Functional tests     | Application servers |             |      | Identity Providers |             |
-|             |              | Proprietary code |               | Security tests       | Web engines         |             |      |                    |             |
-|             |              |                  |               |                      | Databases           |             |      |                    |             |
+|             |              |                  |               |                      |                     |             |      |                    |                 |
+| Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | DNS  | SaaS solutions     | CDN             |
+| QA team     | SCV          | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         |      | 3rd party APIs     | Cloud services  |
+| DevOps team | Local tests  | Libraries        | Pull requests | Unit tests           | Webservers          | USB dongle  |      | Payment gateways   |                 |
+|             |              | Open source      |               | Functional tests     | Application servers |             |      | Identity Providers |                 |
+|             |              | Proprietary code |               | Security tests       | Web engines         |             |      | Analytics          |                 |
+|             |              |                  |               |                      | Databases           |             |      |                    |                 |
 
 </center>
 
@@ -41,7 +41,7 @@ This includes any local applications, configurations, or other dependencies that
 ### What's in scope?
 
 * IDE
-* SCV tools
+* VCS tools
 * Local tests
 
 ### Examples
@@ -50,9 +50,9 @@ This includes any local applications, configurations, or other dependencies that
 
 VSCode, Atom, Vim
 
-#### SCV Tools
+#### VCS Tools
 
-Git, SVN, Mercurial, 
+Git, Mercurial, SVN, ClearCase
 
 #### Local tests
 
@@ -72,7 +72,13 @@ This includes any software that is needed to successfully write, build or deploy
 
 ### Examples
 
-Javascript, Python, C, C++, Ruby, C#, Java, Ruby on Rails, React, PHP, Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, Lua, .NET Core, Require.js, Slick 
+#### Programming Languages
+
+Javascript, Python, C, C++, Ruby, C#, Java, Ruby on Rails, PHP, Lua, C#
+
+#### Frameworks & libraries
+
+React, Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, .NET Core, Require.js, Slick 
 
 ## Continuous Integration
 
@@ -80,11 +86,12 @@ Continuous integration (CI) is the process of automatically integrating code cha
 
 ### What's in scope?
 
-* Git repositories
 * SCM providers
 * Pull requests
 
 ### Examples
+
+#### SCM Providers
 
 GitHub, Bitbucket, GitLab, CodeCommit, Azure Repos, Gitea 
 
@@ -116,6 +123,7 @@ The web application runtime is the environment in which a web application is exe
 * Application servers
 * Web runtime engines
 * Databases
+* AMIs & golden images
 
 ### Examples
 
@@ -156,10 +164,21 @@ This refers to the process of identifying and describing the external services t
 * third party APIs or data
 * payment processors/gateways
 * identity providers 
+* analytics & tracking
 
 ### Examples
 
-Stripe, Segment, Hubspot, Mailchimp, Facebook Pixel, Marketo
+#### Payment gateways & processors
+
+Paypal, Braintree, Stripe, Square
+
+#### SaaS solutions examples
+
+Hubspot, Mailchimp, LinkedIn, Crunchbase
+
+#### Analytics & tracking examples
+
+Mixpanel, Google Analytics, Hotjar, Facebook Pixel, LinkedIn Tracking Pixel, Reddit Pixel, Segment, Marketo
 
 ## Cloud resources
 
@@ -172,4 +191,10 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 
 ### Examples
 
-AWS API Gateway, AWS Cognito, DynamoDB
+#### CDN Examples
+
+Cloudfront, Cloudflare, Fastly, Akamai, Imperva, PeakHour
+
+#### Cloud Native Services
+
+AWS API Gateway, AWS Cognito, DynamoDB, Azure Functions, Firebase, Microsoft Power Apps, Azure Cosmos, Azure Application Gateway, AWS Elastic Load Balancer, AWS Certificate Manager
