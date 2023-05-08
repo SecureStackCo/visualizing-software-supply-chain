@@ -56,7 +56,7 @@ Git, Mercurial, SVN, ClearCase
 
 #### Local tests
 
-static analysis, software composition analysis
+Linting, static analysis, software composition analysis
 
 ## Source Code
 
@@ -110,7 +110,8 @@ Continuous delivery is an extension of continuous integration that automatically
 
 Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps, Selenium, Semgrep, SecureStack
 
-
+\ \
+\ \
 
 ## Runtime
 
