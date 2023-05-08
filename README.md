@@ -4,7 +4,7 @@ The software supply chain is under increasing threat.  New attacks and threats h
 
 Unfortunately, there is no consistent agreement on what is in the software supply chain.  This project aims to help fix that by giving people a visual and contextual way to understand what specific components are in a particular software supply chain.  
 
-| People      | Local Reqs   | Source Code      | Integration   | Deployment           | Runtime             | Hardware    | DNS  | Services           | Cloud
+| [People](#people) | Local Reqs   | [Source Code](#source-code) | Integration   | Deployment           | Runtime             | Hardware    | DNS  | Services           | Cloud
 | :---        | :---         | :---             | :---          | :---                 | :---                | :---        | :--- | :---               | :---
 | Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | DNS  | SaaS solutions     | AWS Cognito |
 | QA team     | VCS          | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         |      | 3rd party APIs     | API Gateway |
@@ -27,7 +27,7 @@ These are the individuals or teams of people that are needed to write, build and
 
 peter.small@cheapcryptobank.com, roger.moore@cheapcryptobank.com
 
-## 2. Local Environments
+## 2. Local Requirements 
 
 This includes any local applications, configurations, or other dependencies that are needed to for the people building software to successfully do their job.
 
