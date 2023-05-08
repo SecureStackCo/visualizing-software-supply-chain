@@ -186,6 +186,8 @@ This includes any specific or customized piece of hardware for this application 
 
 Embedded devices, custom PCBs, GPUs
 
+&nbsp;&nbsp;
+
 ## DNS
 
 This includes any hostnames, or other DNS entries that any application needs.
