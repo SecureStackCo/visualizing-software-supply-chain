@@ -4,7 +4,7 @@ The software supply chain is under increasing threat.  New attacks and threats h
 
 Unfortunately, there is no consistent agreement on what is in the software supply chain.  This project aims to help fix that by giving people a visual and contextual way to understand what specific components are in a particular software supply chain.  
 
-| [People](#people) | Local Reqs   | [Source Code](#source-code) | Integration   | Deployment           | Runtime             | Hardware    | DNS  | Services           | Cloud
+| [People](#people) | [Local Reqs](Local-Requirements) | [Source Code](#source-code) | [Integration](#integration) | [Deployment](#deployment) | [Runtime](#runtime) | [Hardware](#hardware) | [DNS](#dns)  | [Services](#services) | [Cloud](#cloud)
 | :---        | :---         | :---             | :---          | :---                 | :---                | :---        | :--- | :---               | :---
 | Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | DNS  | SaaS solutions     | AWS Cognito |
 | QA team     | VCS          | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         |      | 3rd party APIs     | API Gateway |
@@ -27,7 +27,7 @@ These are the individuals or teams of people that are needed to write, build and
 
 peter.small@cheapcryptobank.com, roger.moore@cheapcryptobank.com
 
-## 2. Local Requirements 
+## Local Requirements 
 
 This includes any local applications, configurations, or other dependencies that are needed to for the people building software to successfully do their job.
 
@@ -57,7 +57,7 @@ This includes any software that is needed to successfully write, build or deploy
 
 Javascript, Python, C, C++, Ruby, C#, Java, Ruby on Rails, React, PHP, Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, Lua, .NET Core, Require.js, Slick 
 
-## 4. Source Code Management/Continuous Integration
+## Source Code Management/Continuous Integration
 
 Continuous integration (CI) is the process of automatically integrating code changes from multiple contributors into a single software project. This is an important DevOps best practice that enables developers to frequently merge code changes into a central repository for testing before deployment. Automated tools are used to check that the new code is correct before integration.
 
@@ -71,7 +71,7 @@ Continuous integration (CI) is the process of automatically integrating code cha
 
 GitHub, Bitbucket, GitLab, CodeCommit, Azure Repos, Gitea 
 
-## 5. Continuous deployment/delivery
+## Continuous deployment/delivery
 
 Continuous delivery is an extension of continuous integration that automatically deploys all code changes to a testing and/or production environment after the build stage. This means that in addition to automated testing, you have an automated release process, and can deploy your application at any time by clicking a button.
 
@@ -86,7 +86,7 @@ Continuous delivery is an extension of continuous integration that automatically
 
 Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps, Selenium, Semgrep, SecureStack
 
-## 6. Runtime
+## Runtime
 
 The web application runtime is the environment in which a web application is executed. It typically includes the web server, the application server, and other necessary components such as databases, messaging systems, and caching mechanisms. The runtime is responsible for managing the application's resources, handling incoming requests, and returning responses to users.
 
@@ -104,7 +104,7 @@ The web application runtime is the environment in which a web application is exe
 
 IIS, Express, Apache, Tomcat, ASP.NET, Node.js, WebKit, Chrome, V8, MySQL, PostGres, WordPress, WooCommerce, Kubernetes, Docker, Adobe Experience Manager, Vercel, Kinsta, Flywheel, Nginx, Linux, Ubuntu, CentOS, Amazon Linux 2, Drupal, Windows Server 
 
-## 7. Hardware
+## Hardware
 
 This includes any specific or customized piece of hardware for this application to run.  
 
@@ -117,7 +117,7 @@ This includes any specific or customized piece of hardware for this application 
 
 Embedded devices, custom PCBs, GPUs
 
-## 8. DNS
+## DNS
 
 This includes any hostnames, or other DNS entries that any application needs.
 
@@ -129,7 +129,7 @@ This includes any hostnames, or other DNS entries that any application needs.
 
 app.example.org
 
-## 9. Services
+## Services
 
 This refers to the process of identifying and describing the external services that a application relies on in order to function properly. These third-party services can include anything from authentication and authorization services to payment processing and analytics tools.
 
@@ -144,7 +144,7 @@ This refers to the process of identifying and describing the external services t
 
 Stripe, Segment, Hubspot, Mailchimp, Facebook Pixel, Marketo
 
-## 10. Cloud resources
+## Cloud resources
 
 Cloud native resources refer to the tools, technologies, and infrastructure required to develop, deploy, and manage applications that are designed to run in a cloud environment. These resources typically include containerization platforms, orchestration frameworks, serverless computing, and other cloud-specific technologies.
 
