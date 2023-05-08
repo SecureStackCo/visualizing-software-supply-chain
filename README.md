@@ -110,24 +110,58 @@ Continuous delivery is an extension of continuous integration that automatically
 
 Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps, Selenium, Semgrep, SecureStack
 
+
+
 ## Runtime
 
 The web application runtime is the environment in which a web application is executed. It typically includes the web server, the application server, and other necessary components such as databases, messaging systems, and caching mechanisms. The runtime is responsible for managing the application's resources, handling incoming requests, and returning responses to users.
 
 ### What's in scope
 
-* Servers
 * Operating systems
 * Containers
 * Webservers
 * Application servers
+* Content management systems
 * Web runtime engines
 * Databases
 * AMIs & golden images
 
 ### Examples
 
-IIS, Express, Apache, Tomcat, ASP.NET, Node.js, WebKit, Chrome, V8, MySQL, PostGres, WordPress, WooCommerce, Kubernetes, Docker, Adobe Experience Manager, Vercel, Kinsta, Flywheel, Nginx, Linux, Ubuntu, CentOS, Amazon Linux 2, Drupal, Windows Server 
+Vercel, Kinsta, Flywheel, Nginx, Linux, Ubuntu, CentOS, Amazon Linux 2, Drupal, Windows Server 
+
+#### Operating systems
+
+Linux, Windows, MacOS, FreeBSD, Unix, Kubernetes
+
+#### Containers
+
+Docker, Alpine, Busybox, Ubuntu, Nginx, Python, Redis, node, httpd
+
+#### Webservers
+
+Apache, Nginx, IIS, Express, Kestrel
+
+#### Application servers
+
+Tomcat, ASP.NET 
+
+#### Content management systems
+
+WordPress, Contentful, Clarity, Joomla, Magento, Kentico, Sharepoint, Adobe Experience Manager
+
+#### Web runtime
+
+Node.js, WebKit, Chrome, V8 
+
+#### Databases
+
+MySQL, PostGres, Redis, SQL Server
+
+#### AMIs & golden images
+
+Amazon Linux, Ubuntu, Debian, Rocky Linux, Windows Server, Bitnami WordPress
 
 ## Hardware
 
@@ -187,6 +221,7 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 ### What's in scope?
 
 * CDN
+* Cloud hosting providers
 * Cloud native resources
 
 ### Examples
@@ -194,6 +229,10 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 #### CDN Examples
 
 Cloudfront, Cloudflare, Fastly, Akamai, Imperva, PeakHour
+
+#### Cloud hosting providers
+
+AWS, Azure, GCP, Alibaba, Vercel, Kinsta, Flywheel
 
 #### Cloud Native Services
 
