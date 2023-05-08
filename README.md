@@ -4,7 +4,7 @@ The software supply chain is under increasing threat.  New attacks and threats h
 
 Unfortunately, there is no consistent agreement on what is in the software supply chain.  This project aims to help fix that by giving people a visual and contextual way to understand what specific components are in a particular software supply chain.  
 
-| [People](#people) | [Local Reqs](Local-Requirements) | [Source Code](#source-code) | [Integration](#integration) | [Deployment](#deployment) | [Runtime](#runtime) | [Hardware](#hardware) | [DNS](#dns)  | [Services](#services) | [Cloud](#cloud)
+| [People](#people) | [Local Reqs](Local-Requirements) | [Source Code](#source-code) | [Integration](#continuous-integration) | [Deployment](#continuous-deployment) | [Runtime](#runtime) | [Hardware](#hardware) | [DNS](#dns)  | [Services](#services) | [Cloud](#cloud-resources)
 | :---        | :---         | :---             | :---          | :---                 | :---                | :---        | :--- | :---               | :---
 | Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | DNS  | SaaS solutions     | AWS Cognito |
 | QA team     | VCS          | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         |      | 3rd party APIs     | API Gateway |
@@ -57,7 +57,7 @@ This includes any software that is needed to successfully write, build or deploy
 
 Javascript, Python, C, C++, Ruby, C#, Java, Ruby on Rails, React, PHP, Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, Lua, .NET Core, Require.js, Slick 
 
-## Source Code Management/Continuous Integration
+## Continuous Integration
 
 Continuous integration (CI) is the process of automatically integrating code changes from multiple contributors into a single software project. This is an important DevOps best practice that enables developers to frequently merge code changes into a central repository for testing before deployment. Automated tools are used to check that the new code is correct before integration.
 
@@ -71,7 +71,7 @@ Continuous integration (CI) is the process of automatically integrating code cha
 
 GitHub, Bitbucket, GitLab, CodeCommit, Azure Repos, Gitea 
 
-## Continuous deployment/delivery
+## Continuous deployment
 
 Continuous delivery is an extension of continuous integration that automatically deploys all code changes to a testing and/or production environment after the build stage. This means that in addition to automated testing, you have an automated release process, and can deploy your application at any time by clicking a button.
 
