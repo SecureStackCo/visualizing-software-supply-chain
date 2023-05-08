@@ -110,8 +110,8 @@ Continuous delivery is an extension of continuous integration that automatically
 
 Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps, Selenium, Semgrep, SecureStack
 
-\ \
-\ \
+` `  
+` `  
 
 ## Runtime
 
