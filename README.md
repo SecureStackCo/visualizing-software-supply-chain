@@ -9,9 +9,9 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 | [People](#people) | [Local Reqs](#Local-Requirements) | [Source Code](#source-code) | [Integration](#continuous-integration) | [Deployment](#continuous-deployment) | [Runtime](#runtime) | [Hardware](#hardware) | [DNS](#dns)  | [Services](#services) | [Cloud](#cloud-resources)
 | :---------: | :----------: | :--------------: | :-----------: | :------------------: | :-----------------: | :---------: | :--: | :----------------: | :---------:
 |             |              |                  |               |                      |                     |             |      |                    |             |
-| Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | DNS  | SaaS solutions     | AWS Cognito |
-| QA team     | VCS          | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         |      | 3rd party APIs     | API Gateway |
-| DevOps team | Local tests  | Libraries        | Pull requests | Unit tests           | Webservers          | USB dongle  |      | Payment gateways   |             |
+| Developers  | [IDE](#ide)  | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | DNS  | SaaS solutions     | AWS Cognito |
+| QA team     | [SCV](#scv-tools)  | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         |      | 3rd party APIs     | API Gateway |
+| DevOps team | [Local tests](#local-tests) | Libraries        | Pull requests | Unit tests           | Webservers          | USB dongle  |      | Payment gateways   |             |
 |             |              | Open source      |               | Functional tests     | Application servers |             |      | Identity Providers |             |
 |             |              | Proprietary code |               | Security tests       | Web engines         |             |      |                    |             |
 |             |              |                  |               |                      | Databases           |             |      |                    |             |
@@ -30,6 +30,8 @@ These are the individuals or teams of people that are needed to write, build and
 
 ### Examples
 
+#### Developers
+
 peter.small@cheapcryptobank.com, roger.moore@cheapcryptobank.com
 
 ## Local Requirements 
@@ -44,7 +46,17 @@ This includes any local applications, configurations, or other dependencies that
 
 ### Examples
 
-VSCode, Atom, Git, Vim, SVN, Mercurial, static analysis, software composition analysis
+#### IDE
+
+VSCode, Atom, Vim
+
+#### SCV Tools
+
+Git, SVN, Mercurial, 
+
+#### Local tests
+
+static analysis, software composition analysis
 
 ## Source Code
 
