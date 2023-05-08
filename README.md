@@ -8,10 +8,19 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 | :--- | :---        | :---   | :--- | :---    | :--- | :--- | :---        | :---   | :---
 | Developers | IDE | Languages | Git repos | Build solutions | Servers | Embedded Device | DNS | SaaS solutions | AWS Cognito |
 | QA team | VCS | Frameworks | SCM providers | Deployment platforms | Operating systems | PCB | | 3rd party APIs | API Gateway |
-| DevOps team | Local tests | Libraries | Pull requests | | Webservers | USB dongle |  | Payment gateways | |
-| | | Open source | | Security tests | Application servers | |  | Identity Providers | |
-| | | Proprietary code | | Functional tests | Web engines | |  | | |
+| DevOps team | Local tests | Libraries | Pull requests | Unit tests | Webservers | USB dongle |  | Payment gateways | |
+| | | Open source | | Functional tests | Application servers | |  | Identity Providers | |
+| | | Proprietary code | | Security tests | Web engines | |  | | |
 | | | | | | Databases | | | | |
+
+| People      | Local Requirements | Source Code   | Integration   | Deployment       | Runtime     | Hardware | DNS | Services | Cloud
+| :---        | :---               | :---          | :---          | :---             | :---        | :---     | :---        | :---   | :---
+| Developers  | IDE                | Languages     | Git repos     | Build solutions  | Servers     | Embedded Device | DNS | SaaS solutions | AWS Cognito |
+| QA team     | VCS                | Frameworks    | SCM providers | Deployment platforms | Operating systems  | PCB | | 3rd party APIs | API Gateway |
+| DevOps team | Local tests        | Libraries     | Pull requests | Unit tests       | Webservers  | USB dongle |  | Payment gateways | |
+|             |                    | Open source   |               | Functional tests | Application servers | |  | Identity Providers | |
+|             |                    | Proprietary code |            | Security tests   | Web engines | |  | | |
+|             |                    |                  |            |                  | Databases   | |  | | |
 
 ## 1. People
 
