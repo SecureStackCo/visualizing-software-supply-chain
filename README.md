@@ -8,6 +8,8 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 
 <center>
 
+## The Software Supply Chain Stages
+
 | [People](#people) | [Local Reqs](#Local-Requirements) | [Source Code](#source-code) | [Integration](#continuous-integration) | [Deployment](#continuous-deployment) | [Runtime](#runtime) | [Hardware](#hardware) | [DNS](#dns)  | [Services](#services) | [Cloud](#cloud-resources)
 | :---------: | :----------: | :--------------: | :-----------: | :------------------: | :-----------------: | :---------: | :------: | :----------------: | :---------:
 |             |              |                  |               |                      |                     |             |          |                    |                 |
