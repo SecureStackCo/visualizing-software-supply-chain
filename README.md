@@ -36,7 +36,9 @@ These are the individuals or teams of people that are needed to write, build and
 
 #### Developers
 
-peter.small@cheapcryptobank.com, roger.moore@cheapcryptobank.com
+paul, abu, dante
+
+![collaborators-github](./collaborators-github.png)
 
 &nbsp;&nbsp;
 
