@@ -16,9 +16,9 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 | Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | URL      | SaaS solutions     | CDN             |
 | QA team     | SCV          | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         | hostname | Third party APIs   | Cloud services  |
 | DevOps team | Local tests  | Libraries        | Pull requests | Unit tests           | Webservers          | USB dongle  |          | Payment gateways   |                 |
-|             |              | Open source      |               | Functional tests     | Application servers | GPU/CPU     |          | Identity Providers |                 |
+|             | Page builders| Open source      |               | Functional tests     | Application servers | GPU/CPU     |          | Identity Providers |                 |
 |             |              | Proprietary code |               | Security tests       | Web engines         |             |          | Analytics          |                 |
-|             |              |                  |               |                      | Databases           |             |          |                    |                 |
+|             |              |                  |               |                      | Databases           |             |          | Proxies            |                 |
 
 </center>
 
