@@ -82,7 +82,7 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Programming Languages
 
-<img src="images/javascript.svg" width="50" height="50">  <img src="images/python.svg" width="50" height="50">  <img src="images/ruby.svg" width="50" height="50">  <img src="images/java.svg" width="50" height="50">  <img src="images/php.svg" width="50" height="50">  <img src="images/go.svg" width="50" height="50">  <img src="images/cplusplus.png" width="50" height="50">  <img src="images/csharp.png" width="50" height="50">
+<img src="images/javascript.svg" width="50" height="50" title="Javascript">  <img src="images/python.svg" width="50" height="50" title="Python">  <img src="images/ruby.svg" width="50" height="50">  <img src="images/java.svg" width="50" height="50">  <img src="images/php.svg" width="50" height="50">  <img src="images/go.svg" width="50" height="50">  <img src="images/cplusplus.png" width="50" height="50">  <img src="images/csharp.png" width="50" height="50">
 
 #### Frameworks & libraries
 
