@@ -144,9 +144,7 @@ The web application runtime is the environment in which a web application is exe
 
 #### Webservers
 
-<img src="images/apache.svg" width="50" height="50" title="Apache">  <img src="images/nginx.svg" width="50" height="50" title="Nginx">  <img src="images/microsoft-iis-logo.png" width="50" height="50" title="Microsoft IIS">
-
-Express, Kestrel
+<img src="images/apache.svg" width="50" height="50" title="Apache">  <img src="images/nginx.svg" width="50" height="50" title="Nginx">  <img src="images/microsoft-iis-logo.png" width="50" height="50" title="Microsoft IIS">  <img src="images/express.svg" width="50" height="50" title="Express">
 
 #### Application servers
 
@@ -225,7 +223,7 @@ This refers to the process of identifying and describing the external services t
 
 #### Analytics & tracking examples
 
-Mixpanel, Google Analytics, Hotjar, Facebook Pixel, LinkedIn Tracking Pixel, Reddit Pixel, Segment, Marketo
+<img src="images/google-analytics.svg" width="50" height="50" title="Google Analytics">  <img src="images/hotjar.svg" width="50" height="50" title="Hotjar">  <img src="images/facebook.svg" width="50" height="50" title="Facebook Pixel">  <img src="images/segment.svg" width="50" height="50" title="Segment"> <img src="images/marketo.svg" width="50" height="50" title="Marketo"> <img src="images/mixpanel.png" width="50" height="50" title="Mixpanel">
 
 &nbsp;&nbsp;
 
@@ -244,13 +242,11 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 
 #### PaaS Examples
 
-Vercel, Kinsta, Flywheel
-
-Cloudfront, Cloudflare, Fastly, Akamai, Imperva, PeakHour
+<img src="images/vercel.svg" width="50" height="50" title="Vercel">  <img src="images/kinsta.svg" width="50" height="50" title="Kinsta">  <img src="images/flywheel.svg" width="50" height="50" title="Flywheel">
 
 #### CDN Examples
 
-Cloudfront, Cloudflare, Fastly, Akamai, Imperva, PeakHour
+<img src="images/cloudfront.svg" width="50" height="50" title="Cloudfront">  <img src="images/cloudflare.svg" width="50" height="50" title="Cloudflare">  <img src="images/fastly.svg" width="50" height="50" title="Fastly">  <img src="images/peakhour.svg" width="50" height="50" title="Peakhour">  <img src="images/akamai.svg" width="50" height="50" title="Akamai">
 
 #### Cloud hosting providers
 
