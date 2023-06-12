@@ -82,13 +82,13 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Programming Languages
 
-<img src="images/javascript.svg" width="50" height="50">  <img src="images/python.svg" width="50" height="50">  <img src="images/ruby.svg" width="50" height="50">  <img src="images/java.svg" width="50" height="50">  <img src="images/php.svg" width="50" height="50">
+<img src="images/javascript.svg" width="50" height="50">  <img src="images/python.svg" width="50" height="50">  <img src="images/ruby.svg" width="50" height="50">  <img src="images/java.svg" width="50" height="50">  <img src="images/php.svg" width="50" height="50">  <img src="images/go.svg" width="50" height="50">
 
 C, C++, C#, C#
 
 #### Frameworks & libraries
 
-<img src="images/react.svg" width="50" height="50">  <img src="images/django.svg" width="50" height="50">  <img src="images/next-js.svg" width="50" height="50">  <img src="images/jquery.svg" width="50" height="50">  <img src="images/go.svg" width="50" height="50">  <img src="images/angular.svg" width="50" height="50">  <img src="images/vue.svg" width="50" height="50">  <img src="images/laravel.svg" width="50" height="50">  <img src="images/nuxt-js.svg" width="50" height="50">  <img src="images/knockout.svg" width="50" height="50">  <img src="images/underscore.svg" width="50" height="50">  <img src="images/moment-js.svg" width="50" height="50">  <img src="images/babel.svg" width="50" height="50">  <img src="images/lodash.svg" width="50" height="50">  <img src="images/swiper.svg" width="50" height="50">  <img src="images/tailwind.svg" width="50" height="50">  <img src="images/netcore.svg" width="50" height="50">  <img src="images/require-js.svg" width="50" height="50">  <img src="images/slick.svg" width="50" height="50">
+<img src="images/react.svg" width="50" height="50">  <img src="images/django.svg" width="50" height="50">  <img src="images/next-js.svg" width="50" height="50">  <img src="images/jquery.svg" width="50" height="50">  <img src="images/angular.svg" width="50" height="50">  <img src="images/vue.svg" width="50" height="50">  <img src="images/laravel.svg" width="50" height="50">  <img src="images/nuxt-js.svg" width="50" height="50">  <img src="images/moment-js.svg" width="50" height="50">  <img src="images/babel.svg" width="50" height="50">  <img src="images/lodash.svg" width="50" height="50">  <img src="images/swiper.svg" width="50" height="50">  <img src="images/tailwind.svg" width="50" height="50">  <img src="images/netcore.svg" width="50" height="50">  <img src="images/require-js.svg" width="50" height="50">  
 
 &nbsp;&nbsp;
 
@@ -105,7 +105,7 @@ Continuous integration (CI) is the process of automatically integrating code cha
 
 #### SCM Providers
 
-GitHub, Bitbucket, GitLab, CodeCommit, Azure Repos, Gitea 
+<img src="images/github.svg" width="50" height="50">  <img src="images/bitbucket.svg" width="50" height="50">  <img src="images/azure-repos.png" width="50" height="50"> <img src="images/gitlab.svg" width="50" height="50">  <img src="images/gitea.png" width="50" height="50">  <img src="images/codecommit.png" width="50" height="50">
 
 &nbsp;&nbsp;
 
