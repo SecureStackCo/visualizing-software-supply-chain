@@ -82,11 +82,11 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Programming Languages
 
-![Javascript](images/javascript.svg), ![Python](images/python.svg), C, C++, Ruby, C#, Java, Ruby on Rails, PHP, Lua, C#
+![Javascript](images/javascript.svg =250x250), ![Python](images/python.svg =250x250), C, C++, Ruby, C#, Java, Ruby on Rails, PHP, Lua, C#
 
 #### Frameworks & libraries
 
-![React](images/react.svg), Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, .NET Core, Require.js, Slick 
+![React](images/react.svg =250x250), Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, .NET Core, Require.js, Slick 
 
 &nbsp;&nbsp;
 
