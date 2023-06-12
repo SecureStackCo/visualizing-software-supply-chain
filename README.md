@@ -82,7 +82,7 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Programming Languages
 
-![Javascript](images/javascript.svg | width=100), ![Python](images/python.svg | width=100), C, C++, Ruby, C#, Java, Ruby on Rails, PHP, Lua, C#
+<img src="images/javascript.svg" width="100" height="100">, <img src="images/python.svg" width="100" height="100">, ![Python](images/python.svg | width=100), C, C++, Ruby, C#, Java, Ruby on Rails, PHP, Lua, C#
 
 #### Frameworks & libraries
 
