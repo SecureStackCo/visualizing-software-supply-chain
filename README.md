@@ -82,11 +82,11 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Programming Languages
 
-<img src="images/javascript.svg" width="50" height="50" title="Javascript">  <img src="images/python.svg" width="50" height="50" title="Python">  <img src="images/ruby.svg" width="50" height="50">  <img src="images/java.svg" width="50" height="50">  <img src="images/php.svg" width="50" height="50">  <img src="images/go.svg" width="50" height="50">  <img src="images/cplusplus.png" width="50" height="50">  <img src="images/csharp.png" width="50" height="50">
+<img src="images/javascript.svg" width="50" height="50" title="Javascript">  <img src="images/python.svg" width="50" height="50" title="Python">  <img src="images/ruby.svg" width="50" height="50" title="Ruby">  <img src="images/java.svg" width="50" height="50" title="Java">  <img src="images/php.svg" width="50" height="50" title="PHP">  <img src="images/go.svg" width="50" height="50" title="Go">  <img src="images/cplusplus.png" width="50" height="50" title="C++">  <img src="images/csharp.png" width="50" height="50" title="C#">
 
 #### Frameworks & libraries
 
-<img src="images/react.svg" width="50" height="50">  <img src="images/django.svg" width="50" height="50">  <img src="images/next-js.svg" width="50" height="50">  <img src="images/jquery.svg" width="50" height="50">  <img src="images/angular.svg" width="50" height="50">  <img src="images/vue.svg" width="50" height="50">  <img src="images/laravel.svg" width="50" height="50">  <img src="images/nuxt-js.svg" width="50" height="50">  <img src="images/moment-js.svg" width="50" height="50">  <img src="images/babel.svg" width="50" height="50">  <img src="images/lodash.svg" width="50" height="50">  <img src="images/swiper.svg" width="50" height="50">  <img src="images/tailwind.svg" width="50" height="50">  <img src="images/netcore.svg" width="50" height="50">  <img src="images/require-js.svg" width="50" height="50">  
+<img src="images/react.svg" width="50" height="50" title="React">  <img src="images/django.svg" width="50" height="50" title="Djange">  <img src="images/next-js.svg" width="50" height="50" title="Next.js">  <img src="images/jquery.svg" width="50" height="50" title="Jquery">  <img src="images/angular.svg" width="50" height="50" title="Angular.js">  <img src="images/vue.svg" width="50" height="50" title="Vue.js">  <img src="images/laravel.svg" width="50" height="50" title="Laravel">  <img src="images/nuxt-js.svg" width="50" height="50" title="Nuxt.js">  <img src="images/moment-js.svg" width="50" height="50" title="Moment.js">  <img src="images/babel.svg" width="50" height="50" title="Babel.js">  <img src="images/lodash.svg" width="50" height="50" title="Lodash">  <img src="images/swiper.svg" width="50" height="50" title="Swiper">  <img src="images/tailwind.svg" width="50" height="50" title="Tailwind CSS">  <img src="images/netcore.svg" width="50" height="50" title=".NET Core">  <img src="images/require-js.svg" width="50" height="50" title="Require.js">  
 
 ## Continuous Integration
 
@@ -101,7 +101,7 @@ Continuous integration (CI) is the process of automatically integrating code cha
 
 #### SCM Providers
 
-<img src="images/github.svg" width="50" height="50">  <img src="images/bitbucket.svg" width="50" height="50">  <img src="images/azure-repos.png" width="50" height="50"> <img src="images/gitlab.svg" width="50" height="50">  <img src="images/gitea.png" width="50" height="50">  <img src="images/codecommit.png" width="50" height="50">
+<img src="images/github.svg" width="50" height="50" title="GitHub">  <img src="images/bitbucket.svg" width="50" height="50" title="Bitbucket">  <img src="images/azure-repos.png" width="50" height="50" title="Azure Repos"> <img src="images/gitlab.svg" width="50" height="50" title="GitLab">  <img src="images/gitea.png" width="50" height="50" title="Gitea">  <img src="images/codecommit.png" width="50" height="50" title="CodeCommit">
 
 ## Continuous deployment
 
@@ -116,7 +116,7 @@ Continuous delivery is an extension of continuous integration that automatically
 
 ### Examples
 
-<img src="images/azure-devops.svg" width="50" height="50">  <img src="images/jenkins.svg" width="50" height="50">  <img src="images/octopus-deploy.svg" width="50" height="50"> <img src="images/buildkite.png" width="50" height="50">
+<img src="images/azure-devops.svg" width="50" height="50" title="Azure DevOps">  <img src="images/jenkins.svg" width="50" height="50" title="Jenkins">  <img src="images/octopus-deploy.svg" width="50" height="50" title="Octopus Deploy"> <img src="images/buildkite.png" width="50" height="50" title="Buildkite">
 
 Bamboo, Selenium, Semgrep, SecureStack
 
