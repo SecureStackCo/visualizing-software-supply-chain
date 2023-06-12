@@ -58,7 +58,7 @@ This includes any local applications, configurations, or other dependencies that
 
 #### VCS Tools
 
-<img src="images/git.png" width="50" height="50" title="Git">  <img src="images/mercurial.png" width="50" height="50" title="Mercurial">  <img src="images/clearcase.png" width="50" height="50" title="Clearcase">
+<img src="images/git.svg" width="50" height="50" title="Git">  <img src="images/mercurial.png" width="50" height="50" title="Mercurial">  <img src="images/clearcase.png" width="50" height="50" title="Clearcase">
 
 #### Local tests
 
@@ -129,37 +129,36 @@ The web application runtime is the environment in which a web application is exe
 ### What's in scope
 
 * Operating systems
-* Containers
 * Webservers
 * Application servers
 * Content management systems
 * Web runtime engines
 * Databases
-* AMIs & golden images
+* Containers, AMIs & golden images
 
 ### Examples
 
-Vercel, Kinsta, Flywheel, Nginx, Linux, Ubuntu, CentOS, Amazon Linux 2, Drupal, Windows Server 
-
 #### Operating systems
 
-Linux, Windows, MacOS, FreeBSD, Unix, Kubernetes
-
-#### Containers
-
-Docker, Alpine, Busybox, Ubuntu, Nginx, Python, Redis, node, httpd
+<img src="images/linux.svg" width="50" height="50" title="Linux">  <img src="images/windows-server.svg" width="50" height="50" title="Windows Server">  <img src="images/freebsd.png" width="50" height="50" title="FreeBSD"> <img src="images/unix.svg" width="50" height="50" title="Unix">
 
 #### Webservers
 
-Apache, Nginx, IIS, Express, Kestrel
+<img src="images/apache.svg" width="50" height="50" title="Apache">  <img src="images/nginx.svg" width="50" height="50" title="Nginx">  <img src="images/microsoft-iis-logo.png" width="50" height="50" title="Microsoft IIS">
+
+Express, Kestrel
 
 #### Application servers
 
-Tomcat, ASP.NET 
+<img src="images/tomcat.svg" width="50" height="50" title="Apache Tomcat">  <img src="images/websphere" width="50" height="50" title="WebSphere">  <img src="images/glassfish.png" width="50" height="50" title="GlassFish">
+
+ASP.NET 
 
 #### Content management systems
 
-WordPress, Contentful, Clarity, Joomla, Magento, Kentico, Sharepoint, Adobe Experience Manager
+<img src="images/wordpress.svg" width="50" height="50" title="WordPress">  <img src="images/drupal.svg" width="50" height="50" title="Drupal">  <img src="images/joomla.png" width="50" height="50" title="Joomla">  <img src="images/contentful.svg" width="50" height="50" title="Contentful">  <img src="images/magento.svg" width="50" height="50" title="Magento">
+
+Clarity, Kentico, Sharepoint, Adobe Experience Manager
 
 #### Web runtime
 
@@ -169,9 +168,9 @@ Node.js, WebKit, Chrome, V8
 
 MySQL, PostGres, Redis, SQL Server
 
-#### AMIs & golden images
+#### Containers, AMIs & Golden Images
 
-Amazon Linux, Ubuntu, Debian, Rocky Linux, Windows Server, Bitnami WordPress
+Docker, Kubernetes, Amazon Linux, Bitnami WordPress
 
 &nbsp;&nbsp;
 
@@ -238,11 +237,18 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 
 ### What's in scope?
 
+* PaaS
 * CDN
 * Cloud hosting providers
 * Cloud native resources
 
 ### Examples
+
+#### PaaS Examples
+
+Vercel, Kinsta, Flywheel
+
+Cloudfront, Cloudflare, Fastly, Akamai, Imperva, PeakHour
 
 #### CDN Examples
 
@@ -250,7 +256,7 @@ Cloudfront, Cloudflare, Fastly, Akamai, Imperva, PeakHour
 
 #### Cloud hosting providers
 
-AWS, Azure, GCP, Alibaba, Vercel, Kinsta, Flywheel
+AWS, Azure, GCP, Alibaba 
 
 #### Cloud Native Services
 
