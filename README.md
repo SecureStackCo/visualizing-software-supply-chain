@@ -250,8 +250,10 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 
 #### Cloud hosting providers
 
-AWS, Azure, GCP, Alibaba 
+<img src="images/aws.svg" width="50" height="50" title="AWS">  <img src="images/azure.svg" width="50" height="50" title="Azure">  <img src="images/google-cloud.svg" width="50" height="50" title="Google Cloud">  <img src="images/alibaba-cloud.png" width="50" height="50" title="Alibaba">
 
 #### Cloud Native Services
 
-AWS API Gateway, AWS Cognito, DynamoDB, Azure Functions, Firebase, Microsoft Power Apps, Azure Cosmos, Azure Application Gateway, AWS Elastic Load Balancer, AWS Certificate Manager
+<img src="images/firebase.svg" width="50" height="50" title="Firebase">  <img src="images/aws-api-gateway.svg" width="50" height="50" title="AWS API Gateway">  <img src="images/aws-cognito.svg" width="50" height="50" title="AWS Cognito">
+
+DynamoDB, Azure Functions, Microsoft Power Apps, Azure Cosmos, Azure Application Gateway, AWS Elastic Load Balancer, AWS Certificate Manager
