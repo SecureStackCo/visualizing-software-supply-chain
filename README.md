@@ -82,20 +82,13 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Programming Languages
 
-<img src="images/javascript.svg" width="50" height="50">
-<img src="images/python.svg" width="100" height="100">
+<img src="images/javascript.svg" width="50" height="50"><img src="images/python.svg" width="100" height="100">
 
 C, C++, Ruby, C#, Java, Ruby on Rails, PHP, Lua, C#
 
 #### Frameworks & libraries
 
-<img src="images/react.svg" width="50" height="50"> 
-<img src="images/django.svg" width="50" height="50"> 
-<img src="images/next-js.svg" width="50" height="50"> 
-<img src="images/jquery.svg" width="50" height="50"> 
-<img src="images/go.svg" width="50" height="50"> 
-<img src="images/angular.svg" width="50" height="50"> 
-<img src="images/vue.svg" width="50" height="50"> 
+<img src="images/react.svg" width="50" height="50"><img src="images/django.svg" width="50" height="50"><img src="images/next-js.svg" width="50" height="50"><img src="images/jquery.svg" width="50" height="50"><img src="images/go.svg" width="50" height="50"><img src="images/angular.svg" width="50" height="50"><img src="images/vue.svg" width="50" height="50"> 
 
 Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, .NET Core, Require.js, Slick 
 
