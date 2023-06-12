@@ -82,11 +82,11 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Programming Languages
 
-<img src="images/javascript.svg" width="50" height="50" title="Javascript">  <img src="images/python.svg" width="50" height="50" title="Python">  <img src="images/ruby.svg" width="50" height="50" title="Ruby">  <img src="images/java.svg" width="50" height="50" title="Java">  <img src="images/php.svg" width="50" height="50" title="PHP">  <img src="images/go.svg" width="50" height="50" title="Go">  <img src="images/cplusplus.png" width="50" height="50" title="C++">  <img src="images/csharp.png" width="50" height="50" title="C#">
+<img src="images/javascript.svg" width="50" height="50" title="Javascript">  <img src="images/python.svg" width="50" height="50" title="Python">  <img src="images/ruby.svg" width="50" height="50" title="Ruby">  <img src="images/java.svg" width="50" height="50" title="Java">  <img src="images/php.svg" width="50" height="50" title="PHP">  <img src="images/go.svg" width="50" height="50" title="Go">  <img src="images/cplusplus.png" width="50" height="50" title="C++">  <img src="images/csharp.png" width="50" height="50" title="C#">  <img src="images/rust.svg" width="50" height="50" title="Rust">
 
 #### Frameworks & libraries
 
-<img src="images/react.svg" width="50" height="50" title="React">  <img src="images/django.svg" width="50" height="50" title="Djange">  <img src="images/next-js.svg" width="50" height="50" title="Next.js">  <img src="images/jquery.svg" width="50" height="50" title="Jquery">  <img src="images/angular.svg" width="50" height="50" title="Angular.js">  <img src="images/vue.svg" width="50" height="50" title="Vue.js">  <img src="images/laravel.svg" width="50" height="50" title="Laravel">  <img src="images/nuxt-js.svg" width="50" height="50" title="Nuxt.js">  <img src="images/moment-js.svg" width="50" height="50" title="Moment.js">  <img src="images/babel.svg" width="50" height="50" title="Babel.js">  <img src="images/lodash.svg" width="50" height="50" title="Lodash">  <img src="images/swiper.svg" width="50" height="50" title="Swiper">  <img src="images/tailwind.svg" width="50" height="50" title="Tailwind CSS">  <img src="images/netcore.svg" width="50" height="50" title=".NET Core">  <img src="images/require-js.svg" width="50" height="50" title="Require.js">  
+<img src="images/react.svg" width="50" height="50" title="React">  <img src="images/django.svg" width="50" height="50" title="Djange">  <img src="images/next-js.svg" width="50" height="50" title="Next.js">  <img src="images/jquery.svg" width="50" height="50" title="Jquery">  <img src="images/angular.svg" width="50" height="50" title="Angular.js">  <img src="images/vue.svg" width="50" height="50" title="Vue.js">  <img src="images/laravel.svg" width="50" height="50" title="Laravel">  <img src="images/nuxt-js.svg" width="50" height="50" title="Nuxt.js">  <img src="images/moment-js.svg" width="50" height="50" title="Moment.js">  <img src="images/babel.svg" width="50" height="50" title="Babel.js">  <img src="images/lodash.svg" width="50" height="50" title="Lodash">  <img src="images/swiper.svg" width="50" height="50" title="Swiper">  <img src="images/tailwind.svg" width="50" height="50" title="Tailwind CSS">  <img src="images/netcore.svg" width="50" height="50" title=".NET Core">  <img src="images/require-js.svg" width="50" height="50" title="Require.js">  <img src="images/fastapi.svg" width="50" height="50" title="FastAPI">
 
 ## Continuous Integration
 
@@ -215,7 +215,7 @@ This refers to the process of identifying and describing the external services t
 
 #### Payment gateways & processors
 
-<img src="images/paypal.svg" width="50" height="50" title="Paypal">  <img src="images/stripe.svg" width="50" height="50" title="Stripe">  <img src="images/braintree.png" width="50" height="50" title="Braintree">  <img src="images/square.jpeg" width="50" height="50" title="Square">
+<img src="images/paypal.svg" width="50" height="50" title="Paypal">  <img src="images/stripe.svg" width="50" height="50" title="Stripe">  <img src="images/braintree.png" width="75" height="50" title="Braintree">  <img src="images/square.jpeg" width="50" height="50" title="Square">
 
 #### SaaS solutions examples
 
@@ -223,7 +223,7 @@ This refers to the process of identifying and describing the external services t
 
 #### Analytics & tracking examples
 
-<img src="images/google-analytics.svg" width="50" height="50" title="Google Analytics">  <img src="images/hotjar.svg" width="50" height="50" title="Hotjar">  <img src="images/facebook.svg" width="50" height="50" title="Facebook Pixel">  <img src="images/segment.svg" width="50" height="50" title="Segment"> <img src="images/marketo.svg" width="50" height="50" title="Marketo"> <img src="images/mixpanel.png" width="50" height="50" title="Mixpanel">
+<img src="images/google-analytics.svg" width="50" height="50" title="Google Analytics">  <img src="images/hotjar.svg" width="50" height="50" title="Hotjar">  <img src="images/facebook.svg" width="50" height="50" title="Facebook Pixel">  <img src="images/segment.svg" width="50" height="50" title="Segment"> <img src="images/marketo.svg" width="50" height="50" title="Marketo"> <img src="images/mixpanel.png" width="75" height="50" title="Mixpanel">
 
 &nbsp;&nbsp;
 
@@ -246,7 +246,7 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 
 #### CDN Examples
 
-<img src="images/cloudfront.svg" width="50" height="50" title="Cloudfront">  <img src="images/cloudflare.svg" width="50" height="50" title="Cloudflare">  <img src="images/fastly.svg" width="50" height="50" title="Fastly">  <img src="images/peakhour.svg" width="50" height="50" title="Peakhour">  <img src="images/akamai.svg" width="50" height="50" title="Akamai">
+<img src="images/cloudfront.svg" width="50" height="50" title="Cloudfront">  <img src="images/cloudflare.svg" width="50" height="50" title="Cloudflare">  <img src="images/fastly.svg" width="50" height="50" title="Fastly">  <img src="images/peakhour.png" width="50" height="50" title="Peakhour">  <img src="images/akamai.svg" width="50" height="50" title="Akamai">
 
 #### Cloud hosting providers
 
