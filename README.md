@@ -168,7 +168,7 @@ Node.js, WebKit, Chrome, V8
 
 #### Containers, AMIs & Golden Images
 
-Docker, Kubernetes, Amazon Linux, Bitnami WordPress
+<img src="images/docker.png" width="50" height="50" title="Docker">  <img src="images/kubernetes.svg" width="50" height="50" title="Kubernetes">  <img src="images/amazon-linux-logo.png" width="50" height="50" title="Amazon Linux">
 
 &nbsp;&nbsp;
 
@@ -217,11 +217,11 @@ This refers to the process of identifying and describing the external services t
 
 #### Payment gateways & processors
 
-Paypal, Braintree, Stripe, Square
+<img src="images/paypal.svg" width="50" height="50" title="Paypal">  <img src="images/stripe.svg" width="50" height="50" title="Stripe">  <img src="images/braintree.png" width="50" height="50" title="Braintree">  <img src="images/square.jpeg" width="50" height="50" title="Square">
 
 #### SaaS solutions examples
 
-Hubspot, Mailchimp, LinkedIn, Crunchbase
+<img src="images/hubspot.svg" width="50" height="50" title="Hubspot">  <img src="images/mailchimp.svg" width="50" height="50" title="Mailchimp">  <img src="images/linkedin.svg" width="50" height="50" title="LinkedIn">  <img src="images/crunchbase.png" width="50" height="50" title="Crunchbase">
 
 #### Analytics & tracking examples
 
