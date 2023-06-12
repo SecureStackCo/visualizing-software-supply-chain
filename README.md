@@ -54,11 +54,11 @@ This includes any local applications, configurations, or other dependencies that
 
 #### IDE
 
-VSCode, Atom, Vim
+<img src="images/vscode.png" width="50" height="50" title="VS Code">  <img src="images/atom.png" width="50" height="50" title="Atom">  <img src="images/vim.png" width="50" height="50" title="Vim">
 
 #### VCS Tools
 
-Git, Mercurial, SVN, ClearCase
+<img src="images/git.png" width="50" height="50" title="Git">  <img src="images/mercurial.png" width="50" height="50" title="Mercurial">  <img src="images/clearcase.png" width="50" height="50" title="Clearcase">
 
 #### Local tests
 
