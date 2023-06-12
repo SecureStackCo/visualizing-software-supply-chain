@@ -82,15 +82,11 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Programming Languages
 
-<img src="images/javascript.svg" width="50" height="50">  <img src="images/python.svg" width="50" height="50">  <img src="images/ruby.svg" width="50" height="50">  <img src="images/java.svg" width="50" height="50">  <img src="images/php.svg" width="50" height="50">  <img src="images/go.svg" width="50" height="50">
-
-C, C++, C#, C#
+<img src="images/javascript.svg" width="50" height="50">  <img src="images/python.svg" width="50" height="50">  <img src="images/ruby.svg" width="50" height="50">  <img src="images/java.svg" width="50" height="50">  <img src="images/php.svg" width="50" height="50">  <img src="images/go.svg" width="50" height="50">  <img src="images/cplusplus.png" width="50" height="50">  <img src="images/csharp.png" width="50" height="50">
 
 #### Frameworks & libraries
 
 <img src="images/react.svg" width="50" height="50">  <img src="images/django.svg" width="50" height="50">  <img src="images/next-js.svg" width="50" height="50">  <img src="images/jquery.svg" width="50" height="50">  <img src="images/angular.svg" width="50" height="50">  <img src="images/vue.svg" width="50" height="50">  <img src="images/laravel.svg" width="50" height="50">  <img src="images/nuxt-js.svg" width="50" height="50">  <img src="images/moment-js.svg" width="50" height="50">  <img src="images/babel.svg" width="50" height="50">  <img src="images/lodash.svg" width="50" height="50">  <img src="images/swiper.svg" width="50" height="50">  <img src="images/tailwind.svg" width="50" height="50">  <img src="images/netcore.svg" width="50" height="50">  <img src="images/require-js.svg" width="50" height="50">  
-
-&nbsp;&nbsp;
 
 ## Continuous Integration
 
@@ -107,8 +103,6 @@ Continuous integration (CI) is the process of automatically integrating code cha
 
 <img src="images/github.svg" width="50" height="50">  <img src="images/bitbucket.svg" width="50" height="50">  <img src="images/azure-repos.png" width="50" height="50"> <img src="images/gitlab.svg" width="50" height="50">  <img src="images/gitea.png" width="50" height="50">  <img src="images/codecommit.png" width="50" height="50">
 
-&nbsp;&nbsp;
-
 ## Continuous deployment
 
 Continuous delivery is an extension of continuous integration that automatically deploys all code changes to a testing and/or production environment after the build stage. This means that in addition to automated testing, you have an automated release process, and can deploy your application at any time by clicking a button.
@@ -122,7 +116,9 @@ Continuous delivery is an extension of continuous integration that automatically
 
 ### Examples
 
-Buildkite, Bamboo, Octopus Deploy, Jenkins, Azure DevOps, Selenium, Semgrep, SecureStack
+<img src="images/azure-devops.svg" width="50" height="50">  <img src="images/jenkins.svg" width="50" height="50">  <img src="images/octopus-deploy.svg" width="50" height="50"> <img src="images/buildkite.png" width="50" height="50">
+
+Bamboo, Selenium, Semgrep, SecureStack
 
 &nbsp;&nbsp;
 
