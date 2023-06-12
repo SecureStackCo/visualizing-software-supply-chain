@@ -4,7 +4,7 @@ The software supply chain is under increasing threat.  New attacks and threats h
 
 Unfortunately, there is no consistent agreement on what is in the software supply chain. This is a problem as we can't secure the software supply chain if we don't know what's in it.  This project aims to help fix that by giving people a visual and contextual way to understand what specific components are in a particular software supply chain.  If you want to tag your own components you can fork this repo and edit it to suit your specific software supply chain profiles. 
 
-![Visualizing the Software Supply Chain](Software-Supply-Chain-Visualization.png)
+![Visualizing the Software Supply Chain](images/Software-Supply-Chain-Visualization.png)
 
 <center>
 
@@ -36,7 +36,7 @@ These are the individuals or teams of people that are needed to write, build and
 
 #### Developers
 
-![collaborators-github](./collaborators-github.png)
+![collaborators-github](images/collaborators-github.png)
 
 &nbsp;&nbsp;
 
@@ -82,11 +82,11 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Programming Languages
 
-Javascript, Python, C, C++, Ruby, C#, Java, Ruby on Rails, PHP, Lua, C#
+![Javascript](images/javascript.svg), ![Python](images/python.svg), C, C++, Ruby, C#, Java, Ruby on Rails, PHP, Lua, C#
 
 #### Frameworks & libraries
 
-React, Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, .NET Core, Require.js, Slick 
+![React](images/react.svg), Django, Next.js, JQuery, Golang, Angular, Vue.js, Laravel, jsDelivr, Nuxt.js, Knockout.js, Underscore.js, Moment.js, Babel.js, Lodash, Swiper.js, Tailwind CSS, .NET Core, Require.js, Slick 
 
 &nbsp;&nbsp;
 
