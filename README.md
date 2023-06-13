@@ -19,6 +19,7 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 |             |              | Open source      |               | Functional tests     | Application servers | GPU/CPU     |          | Identity Providers |                 |
 |             |              | Proprietary code |               | Security tests       | Web engines         |             |          | Analytics          |                 |
 |             |              |                  |               |                      | Databases           |             |          |                    |                 |
+| [People](#people) | [Local Reqs](#Local-Requirements) | [Source Code](#source-code) | [Integration](#continuous-integration) | [Deployment](#continuous-deployment) | [Runtime](#runtime) | [Hardware](#hardware) | [DNS](#dns)  | [Services](#services) | [Cloud](#cloud-resources)
 
 </center>
 
@@ -254,6 +255,6 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 
 #### Cloud Native Services
 
-<img src="images/firebase.svg" width="50" height="50" title="Firebase">  <img src="images/aws-api-gateway.svg" width="50" height="50" title="AWS API Gateway">  <img src="images/aws-cognito.svg" width="50" height="50" title="AWS Cognito">
+<img src="images/firebase.svg" width="50" height="50" title="Firebase">  <img src="images/aws-api-gateway.svg" width="50" height="50" title="AWS API Gateway">  <img src="images/aws-cognito.svg" width="50" height="50" title="AWS Cognito">  <img src="images/.svg" width="50" height="50" title="Firebase">  <img src="images/aws-api-gateway.svg" width="50" height="50" title="AWS API Gateway">  
 
 DynamoDB, Azure Functions, Microsoft Power Apps, Azure Cosmos, Azure Application Gateway, AWS Elastic Load Balancer, AWS Certificate Manager
