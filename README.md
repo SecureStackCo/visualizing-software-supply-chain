@@ -4,7 +4,7 @@ The software supply chain is under increasing threat.  New attacks and threats h
 
 Unfortunately, there is no consistent agreement on what is in the software supply chain. This is a problem as we can't secure the software supply chain if we don't know what's in it.  This project aims to help fix that by giving people a visual and contextual way to understand what specific components are in a particular software supply chain.  If you want to tag your own components you can fork this repo and edit it to suit your specific software supply chain profiles. 
 
-![Visualizing the Software Supply Chain](images/Software-Supply-Chain-Visualization.png)
+![Visualizing the Software Supply Chain](docs/images/Software-Supply-Chain-Visualization.png)
 
 <center>
 
@@ -23,19 +23,8 @@ Unfortunately, there is no consistent agreement on what is in the software suppl
 
 </center>
 
-## People
+## Welcome to the "Visualizing the Software Supply Chain" repository!
 
-These are the individuals or teams of people that are needed to write, build and deploy software.
+You can click on any of the links above and see examples of components sorted by category.  You can also see specific examples of technologies and vendors that fall into that category as well.  Enjoy!
 
-### What's in scope?
-
-* Software engineers
-* QA team
-* DevOps team
-
-### Examples
-
-#### Developers
-
-![collaborators-github](images/collaborators-github.png)
-
+If you want to see everything on one page, you can select [EVERYTHING](./docs/EVERYTHING.md)
