@@ -4,13 +4,12 @@ The software supply chain is under increasing threat.  New attacks and threats h
 
 Unfortunately, there is no consistent agreement on what is in the software supply chain. This is a problem as we can't secure the software supply chain if we don't know what's in it.  This project aims to help fix that by giving people a visual and contextual way to understand what specific components are in a particular software supply chain.  If you want to tag your own components you can fork this repo and edit it to suit your specific software supply chain profiles. 
 
-![Visualizing the Software Supply Chain](docs/images/ssc-new-image.jpg)
-
 <center>
 
 ## The Software Supply Chain Stages
 
-| [People](docs/PEOPLE.md) | [Local Reqs](docs/LOCAL.md) | [Source Code](docs/CODE.md) | [Integration](docs/INTEGRATION.md) | [Deployment](docs/DEPLOYMENT.md) | [Runtime](docs/RUNTIME.md) | [Hardware](docs/HARDWARE.md) | [DNS](docs/DNS.md)  | [Services](docs/SERVICES.md) | [Cloud](docs/CLOUD.md)
+| [People](docs/PEOPLE.md) | [Local Reqs](docs/LOCAL.md) | [Source Code](docs/CODE.md) | [Integration](docs/INTEGRATION.md) | [Deployment](docs/DEPLOYMENT.md) | [Runtime](docs/RUNTIME.md) | [Hardware](docs/HARDWARE.md) | [DNS](docs/DNS.md)  | [Services](docs/SERVICES.md) | [Cloud](docs/CLOUD.md) 
+| <img src="docs/images/people-ssc.png" width="50" height="50" title="People"> | <img src="docs/images/local-ssc.png" width="50" height="50" title="Local"> | <img src="docs/images/source-code-ssc.png" width="50" height="50" title="Source Code"> | <img src="docs/images/integration-ssc.png" width="50" height="50" title="Integration"> | <img src="docs/images/deployment-ssc.png" width="50" height="50" title="Deployment"> | <img src="docs/images/runtime-ssc.png" width="50" height="50" title="Runtime"> | <img src="docs/images/hardware-ssc.png" width="50" height="50" title="DNS"> | <img src="docs/images/dns-ssc.png" width="50" height="50" title="Services"> | <img src="docs/images/services-ssc.png" width="50" height="50" title="Cloud"> | 
 | :---------: | :----------: | :--------------: | :-----------: | :------------------: | :-----------------: | :---------: | :------: | :----------------: | :---------:
 |             |              |                  |               |                      |                     |             |          |                    |                 |
 | Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | URL      | SaaS solutions     | CDN             |
