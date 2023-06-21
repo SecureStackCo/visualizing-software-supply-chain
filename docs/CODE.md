@@ -40,4 +40,4 @@ This includes any software that is needed to successfully write, build or deploy
 
 #### Package managers
 
-<img src="images/maven.svg" width="50" height="50" title="Maven">  <img src="images/pypi.png" width="50" height="50" title="PyPi">  <img src="images/npm.png" width="50" height="50" title="NPM">
+<img src="images/maven.svg" width="100" height="30" title="Maven">  <img src="images/pypi.png" width="80" height="40" title="PyPi">  <img src="images/npm.png" width="80" height="30" title="NPM">  <img src="images/nuget.png" width="50" height="50" title="Nuget">
