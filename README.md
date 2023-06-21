@@ -1,4 +1,4 @@
-# Visualizing the Software Supply Chain
+![](docs/images/github-visualizing-software-supply-chain.jpeg)
 
 The software supply chain is under increasing threat.  New attacks and threats have popped up that we couldn't have imagined even two years ago.  Total attacks on the software supply chain are increasing by more than [730% year on year since 2019](https://portswigger.net/daily-swig/researchers-find-633-increase-in-cyber-attacks-aimed-at-open-source-repositories)
 
