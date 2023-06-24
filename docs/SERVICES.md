@@ -41,3 +41,11 @@ This refers to the process of identifying and describing the external services t
 
 <img src="images/google-analytics.svg" width="50" height="50" title="Google Analytics">  <img src="images/hotjar.svg" width="50" height="50" title="Hotjar">  <img src="images/facebook.svg" width="50" height="50" title="Facebook Pixel">  <img src="images/segment.svg" width="50" height="50" title="Segment"> <img src="images/marketo.svg" width="50" height="50" title="Marketo"> <img src="images/mixpanel.png" width="75" height="50" title="Mixpanel">
 
+### Who owns it?
+
+* CloudOps team
+* Marketing team
+
+### How do I secure it?
+
+* 

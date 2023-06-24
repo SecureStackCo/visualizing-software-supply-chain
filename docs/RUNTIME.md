@@ -61,3 +61,11 @@ Node.js, WebKit, Chrome, V8
 
 <img src="images/docker.png" width="50" height="50" title="Docker">  <img src="images/kubernetes.svg" width="50" height="50" title="Kubernetes">  <img src="images/amazon-linux-logo.png" width="50" height="50" title="Amazon Linux">
 
+### Who owns it?
+
+* CloudOps team
+* Operations teams
+
+### How do I secure it?
+
+* 

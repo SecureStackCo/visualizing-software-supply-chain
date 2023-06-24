@@ -27,3 +27,11 @@ This includes any hostnames, or other DNS entries that any application needs.
 
 app.example.org
 
+### Who owns it?
+
+* CloudOps team
+* Operations team
+
+### How do I secure it?
+
+* 

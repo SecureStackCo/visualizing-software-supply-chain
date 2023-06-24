@@ -46,3 +46,11 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 
 DynamoDB, Azure Functions, Microsoft Power Apps, Azure Cosmos, Azure Application Gateway, AWS Elastic Load Balancer, AWS Certificate Manager
 
+### Who owns it?
+
+* CloudOps team
+* DevOps team
+
+### How do I secure it?
+
+* 

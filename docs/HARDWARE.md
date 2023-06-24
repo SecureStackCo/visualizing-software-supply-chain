@@ -28,3 +28,11 @@ This includes any specific or customized piece of hardware for this application 
 
 Embedded devices, custom PCBs, GPUs
 
+### Who owns it?
+
+* Operations team
+* Cloud provider
+
+### How do I secure it?
+
+* 
