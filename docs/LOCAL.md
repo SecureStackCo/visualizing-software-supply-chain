@@ -4,10 +4,10 @@
 
 | [People](PEOPLE.md) | [Local Reqs](LOCAL.md) | [Source Code](CODE.md) | [Integration](INTEGRATION.md) | [Deployment](DEPLOYMENT.md) | [Runtime](RUNTIME.md) | [Hardware](HARDWARE.md) | [DNS](DNS.md) | [Services](SERVICES.md) | [Cloud](CLOUD.md)
 | :---------: | :----------: | :--------------: | :-----------: | :------------------: | :-----------------: | :---------: | :------: | :----------------: | :---------:
-| Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | URL      | SaaS solutions     | CDN             |
-| QA team     | SCV          | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         | hostname | Third party APIs   | Cloud services  |
-| DevOps team | Local tests  | Libraries        | Pull requests | Unit tests           | Webservers          | USB dongle  |          | Payment gateways   |                 |
-|             |              | Package Managers | Secrets mgmt  | Functional tests     | Application servers | GPU/CPU     |          | Identity Providers |                 |
+| Developers  | IDE          | Languages        | SCM providers | Build solutions      | Servers             | Embedded PC | URL      | SaaS solutions     | CDN             |
+| QA team     | SCV          | Frameworks       | Pull requests | Deployment platforms | Operating systems   | PCB         | hostname | Third party APIs   | Cloud services  |
+| DevOps team | Local tests  | Libraries        | Secrets mgmt  | Unit tests           | Webservers          | USB dongle  |          | Payment gateways   |                 |
+|             | Git repos    | Package Managers |               | Functional tests     | Application servers | GPU/CPU     |          | Identity Providers |                 |
 |             |              | Proprietary code |               | Security tests       | Web engines         |             |          | Analytics          |                 |
 |             |              | Open source      |               | API test frameworks  | Databases           |             |          |                    |                 |
 | [People](PEOPLE.md) | [Local Reqs](LOCAL.md) | [Source Code](CODE.md) | [Integration](INTEGRATION.md) | [Deployment](DEPLOYMENT.md) | [Runtime](RUNTIME.md) | [Hardware](HARDWARE.md) | [DNS](DNS.md) | [Services](SERVICES.md) | [Cloud](CLOUD.md)
@@ -38,4 +38,18 @@ This includes any local applications, configurations, or other dependencies that
 
 Linting, static analysis, software composition analysis
 
+### Who owns it?
+
+* Development teams
+* Individual engineers
+
+### How do I secure it?
+
+* Use of git or other version control systems
+* .gitignore files
+* Endpoint detection and response (EDR)
+* Linting
+* Local secret scans
+* Local SCA scans 
+* Pre-commit git hooks
 

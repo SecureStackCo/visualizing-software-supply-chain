@@ -2,15 +2,16 @@
 
 ## The Software Supply Chain Stages
 
-| [People](PEOPLE.md) | [Local Reqs](LOCAL.md) | [Source Code](CODE.md) | [Integration](INTEGRATION.md) | [Deployment](DEPLOYMENT.md) | [Runtime](RUNTIME.md) | [Hardware](HARDWARE.md) | [DNS](DNS.md) | [Services](SERVICES.md) | [Cloud](CLOUD.md)
+| [People](docs/PEOPLE.md) | [Local Reqs](docs/LOCAL.md) | [Source Code](docs/CODE.md) | [Integration](docs/INTEGRATION.md) | [Deployment](docs/DEPLOYMENT.md) | [Runtime](docs/RUNTIME.md) | [Hardware](docs/HARDWARE.md) | [DNS](docs/DNS.md)  | [Services](docs/SERVICES.md) | [Cloud](docs/CLOUD.md)
 | :---------: | :----------: | :--------------: | :-----------: | :------------------: | :-----------------: | :---------: | :------: | :----------------: | :---------:
-| Developers  | IDE          | Languages        | Git repos     | Build solutions      | Servers             | Embedded PC | URL      | SaaS solutions     | CDN             |
-| QA team     | SCV          | Frameworks       | SCM providers | Deployment platforms | Operating systems   | PCB         | hostname | Third party APIs   | Cloud services  |
-| DevOps team | Local tests  | Libraries        | Pull requests | Unit tests           | Webservers          | USB dongle  |          | Payment gateways   |                 |
-|             |              | Package Managers | Secrets mgmt  | Functional tests     | Application servers | GPU/CPU     |          | Identity Providers |                 |
+|             |              |                  |               |                      |                     |             |          |                    |                 |
+| Developers  | IDE          | Languages        | SCM providers | Build solutions      | Servers             | Embedded PC | URL      | SaaS solutions     | CDN             |
+| QA team     | SCV          | Frameworks       | Pull requests | Deployment platforms | Operating systems   | PCB         | hostname | Third party APIs   | Cloud services  |
+| DevOps team | Local tests  | Libraries        | Secrets mgmt  | Unit tests           | Webservers          | USB dongle  |          | Payment gateways   |                 |
+|             | Git repos    | Package Managers |               | Functional tests     | Application servers | GPU/CPU     |          | Identity Providers |                 |
 |             |              | Proprietary code |               | Security tests       | Web engines         |             |          | Analytics          |                 |
 |             |              | Open source      |               | API test frameworks  | Databases           |             |          |                    |                 |
-| [People](PEOPLE.md) | [Local Reqs](LOCAL.md) | [Source Code](CODE.md) | [Integration](INTEGRATION.md) | [Deployment](DEPLOYMENT.md) | [Runtime](RUNTIME.md) | [Hardware](HARDWARE.md) | [DNS](DNS.md) | [Services](SERVICES.md) | [Cloud](CLOUD.md)
+| [People](docs/PEOPLE.md) | [Local Reqs](docs/LOCAL.md) | [Source Code](docs/CODE.md) | [Integration](docs/INTEGRATION.md) | [Deployment](docs/DEPLOYMENT.md) | [Runtime](docs/RUNTIME.md) | [Hardware](docs/HARDWARE.md) | [DNS](docs/DNS.md)  | [Services](docs/SERVICES.md) | [Cloud](docs/CLOUD.md)
 
 </center>
 
@@ -40,3 +41,11 @@ This includes any software that is needed to successfully write, build or deploy
 #### Package managers
 
 <img src="images/maven.svg" width="100" height="30" title="Maven">  <img src="images/pypi.png" width="80" height="40" title="PyPi">  <img src="images/npm.png" width="80" height="30" title="NPM">  <img src="images/nuget.png" width="50" height="50" title="Nuget">  <img src="images/yarn.png" width="50" height="50" title="Yarn">  <img src="images/composer.png" width="50" height="50" title="Composer">  <img src="images/packagist.png" width="50" height="50" title="Packagist">
+
+### Who owns it?
+
+* Development teams
+* DevOps team
+
+### How do I secure it?
+
