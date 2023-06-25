@@ -42,7 +42,7 @@ Cloud native resources refer to the tools, technologies, and infrastructure requ
 
 #### Cloud Native Services
 
-<img src="images/firebase.svg" width="50" height="50" title="Firebase">  <img src="images/aws-api-gateway.svg" width="50" height="50" title="AWS API Gateway">  <img src="images/aws-cognito.svg" width="50" height="50" title="AWS Cognito">  <img src="images/.svg" width="50" height="50" title="Firebase">  <img src="images/aws-api-gateway.svg" width="50" height="50" title="AWS API Gateway">  
+<img src="images/firebase.svg" width="50" height="50" title="Firebase">  <img src="images/aws-api-gateway.svg" width="50" height="50" title="AWS API Gateway">  <img src="images/aws-cognito.svg" width="50" height="50" title="AWS Cognito">  <img src="images/aws-api-gateway.svg" width="50" height="50" title="AWS API Gateway">  
 
 DynamoDB, Azure Functions, Microsoft Power Apps, Azure Cosmos, Azure Application Gateway, AWS Elastic Load Balancer, AWS Certificate Manager
 
@@ -50,6 +50,13 @@ DynamoDB, Azure Functions, Microsoft Power Apps, Azure Cosmos, Azure Application
 
 * CloudOps team
 * DevOps team
+
+### What are the security concerns?
+
+* Reference the shared responsibility model 
+* Many of the cloud services are publicly facing endpoints by default
+* What permissions are the cloud services using?
+* How many assets do you have in the cloud?
 
 ### How do I secure it?
 
