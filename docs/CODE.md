@@ -47,5 +47,15 @@ This includes any software that is needed to successfully write, build or deploy
 * Development teams
 * DevOps team
 
+### What are the security concerns?
+
+* Knowing what's in your software is the first key
+* Source code components are coming from many different sources and used in applications
+* Dependency origin for the source code we use is critically important
+* Package managers are a primary target for attackers
+
 ### How do I secure it?
 
+* Use secure package repositories
+* Analysis source code composition
+* Software bill of materials

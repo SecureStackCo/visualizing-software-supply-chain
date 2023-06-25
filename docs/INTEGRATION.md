@@ -35,6 +35,13 @@ Continuous integration (CI) is the process of automatically integrating code cha
 * Engineering leadership
 * DevOps team
 
+### What are the security concerns?
+
+* Teams are moving fast, and interating quickly.  It's important that we address security at the speed of iteration
+* Use automated security controls to make sure that code is always promoted using guardrails
+* Verify developers are who they say they are
+* User roles define access
+
 ### How do I secure it?
 
 * Git commit signing

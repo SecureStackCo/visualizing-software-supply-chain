@@ -53,4 +53,5 @@ DynamoDB, Azure Functions, Microsoft Power Apps, Azure Cosmos, Azure Application
 
 ### How do I secure it?
 
-* 
+* Cloud Security Posture Mananagement
+* Attack surface mapping

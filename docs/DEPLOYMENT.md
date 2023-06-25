@@ -37,6 +37,13 @@ Bamboo, Selenium, Semgrep, SecureStack
 * CloudOps team
 * DevOps team
 
+### What are the security concerns?
+
+* Are disposable build environments secure?
+* Are components being used during CI/CD known good? 
+* Security scans are automated as part of the deployment process
+
 ### How do I secure it?
 
-* 
+* Dynamic application security testing
+* Static analysis security testing  

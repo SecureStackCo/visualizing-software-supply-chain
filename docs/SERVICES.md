@@ -48,4 +48,7 @@ This refers to the process of identifying and describing the external services t
 
 ### How do I secure it?
 
-* 
+* Centralized audit logs 
+* Vendor key management
+* Content security policy
+* Just in time access control

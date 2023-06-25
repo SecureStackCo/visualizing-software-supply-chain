@@ -66,6 +66,19 @@ Node.js, WebKit, Chrome, V8
 * CloudOps team
 * Operations teams
 
+### Security concerns with runtime components?
+
+* Traditional concerns around server security: patching, firewalls, user access, etc
+* Container origin is a huge concern as Docker hub and container registries are prime areas for dependency attacks
+* Runtime components have multiple layers of user access controls to worry about
+* Golden images and AMIs don't age well, and are often "pinned" in launch 
+
 ### How do I secure it?
 
-* 
+* Centralized logging
+* SIEM
+* Intrusion detection/prevention
+* OS hardening 
+* Web appliation firewall
+* Container scanning
+* IaC scans

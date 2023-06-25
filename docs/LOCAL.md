@@ -41,8 +41,16 @@ Linting, static analysis, software composition analysis
 
 ### Who owns it?
 
-* Development teams
 * Individual engineers
+
+### What are the security concerns?
+
+* Choice of tools has different security outcomes
+* Git has several local security features which are typically not used 
+* If an IDE is used, what extensions or plugins are enhancing security?
+* How do you encouage automated security tests in local environments?
+* The development environment should be secured
+* What challenges does BYOD bring with it?
 
 ### How do I secure it?
 

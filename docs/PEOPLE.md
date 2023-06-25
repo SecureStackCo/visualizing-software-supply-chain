@@ -22,8 +22,7 @@ These are the individuals or teams of people that are needed to write, build and
 ### What's in scope?
 
 * Software engineers
-* QA team
-* DevOps team
+* QA engineers
 
 ### Examples
 
@@ -33,10 +32,19 @@ These are the individuals or teams of people that are needed to write, build and
 
 ### Who owns it?
 
-* Development teams
 * Individual engineers
+
+### What are the security concerns?
+
+* How do we help our software engineers see security as a "skill" not a burden?
+* What security controls can we suggest that don't slow down devs?
+* Security awareness training needs to be ongoing, not once a year
+* Help devs understand that finding security issues early saves them significant time later
 
 ### How do I secure it?
 
 * Secure Code Training
+* Security chanpion mentoring
+* Peer code review
+* Threat modeling
 
