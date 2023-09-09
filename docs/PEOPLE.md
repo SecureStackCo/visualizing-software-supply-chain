@@ -25,6 +25,8 @@ These are the individuals or teams of people that are needed to write, build and
 
 * Software engineers
 * QA engineers
+* DevOps team
+* Package maintainers
 
 ### Examples
 
@@ -39,6 +41,7 @@ These are the individuals or teams of people that are needed to write, build and
 ### What are the security concerns?
 
 * How do we help our software engineers see security as a "skill" not a burden?
+* Package maintainers are a high profile targets.
 * What security controls can we suggest that don't slow down devs?
 * Security awareness training needs to be ongoing, not once a year
 * Help devs understand that finding security issues early saves them significant time later

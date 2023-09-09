@@ -37,10 +37,12 @@ Embedded devices, custom PCBs, GPUs
 
 ### What are the security concerns?
 
-* Hardware devices come with embedded software that is attack vector
-* 
+* Hardware devices come with embedded software that is an attack vector
+* Theft of small portable devices like USB keys
+* Modification of the devices by malicious actors
 
 ### How do I secure it?
 
 * Buy from known supplier 
 * Network analysis so you can detect malicious "phone home"
+* Physical isolation and/or network segmentation

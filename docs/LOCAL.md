@@ -24,8 +24,10 @@ This includes any local applications, configurations, or other dependencies that
 ### What's in scope?
 
 * IDE
-* VCS tools
+* Source code versioning tools
 * Local tests
+* Local git repositories
+* Page builders
 
 ### Examples
 
@@ -33,13 +35,17 @@ This includes any local applications, configurations, or other dependencies that
 
 <img src="images/vscode.png" width="50" height="50" title="VS Code">  <img src="images/atom.png" width="50" height="50" title="Atom">  <img src="images/vim.png" width="50" height="50" title="Vim">
 
-#### VCS Tools
+#### SCV Tools
 
 <img src="images/git.svg" width="50" height="50" title="Git">  <img src="images/mercurial.png" width="50" height="50" title="Mercurial">  <img src="images/clearcase.png" width="50" height="50" title="Clearcase">
 
 #### Local tests
 
 Linting, static analysis, software composition analysis
+
+#### Local git repositories
+
+Source code stored on devs laptop, private packages, install scripts, deployment scripts
 
 ### Who owns it?
 
